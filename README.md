@@ -117,13 +117,12 @@ npm start
 The React app should be running at http://localhost:3000, and the backend (if running) at http://localhost:5000.
 
 #Screenshort Output
-#Home
+#Add user
 ![Screenshot 2024-10-14 203633](https://github.com/user-attachments/assets/6562d029-eab6-423a-9c77-e085c410c342)
-#adduser
+#update home page
 ![Screenshot 2024-10-14 203648](https://github.com/user-attachments/assets/6509cd05-f915-4c58-ae33-8cf90a96ebc7)
-![Screenshot 2024-10-14 203708](https://github.com/user-attachments/assets/078c493e-faa3-4a57-aa44-86eb67738728)
 #update
-![Screenshot 2024-10-14 203727](https://github.com/user-attachments/assets/1006fade-637a-4b79-bca8-26b0f6e1ae97)
-![Screenshot 2024-10-14 203802](https://github.com/user-attachments/assets/d6f9d8d2-37b9-4a76-a75b-77ffb1434a0a)
+![Screenshot 2024-10-14 203708](https://github.com/user-attachments/assets/078c493e-faa3-4a57-aa44-86eb67738728)
 #delete
+#![Screenshot 2024-10-14 203802](https://github.com/user-attachments/assets/d6f9d8d2-37b9-4a76-a75b-77ffb1434a0a)
 ![Screenshot 2024-10-14 203605](https://github.com/user-attachments/assets/9d0920b6-f814-4401-844b-912efd0e8615)
