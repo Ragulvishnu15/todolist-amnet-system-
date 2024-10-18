@@ -59,7 +59,7 @@ app.use(express.json());
 
 // Sample route
 app.get('/api/users', (req, res) => {
-    res.send([{ name: "Jayaprabha", email: "jayaprabha28@gmail.com", id: 1 }]);
+    res.send([{ name: "Ragulvishnu", email: "rhulvishnu.r@gmail.com", id: 1 }]);
 });
 
 const PORT = process.env.PORT || 5000;
